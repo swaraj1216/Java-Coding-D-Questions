@@ -1,5 +1,5 @@
 public class isPalindrome {
-    public static void main(String a[]){
+    public static void main(String[] args){
         String str = "Nitin";
         String rev = "";
         for(int i= str.length()-1; i>=0; i--){
