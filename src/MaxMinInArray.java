@@ -1,4 +1,4 @@
-public class LargestElementArray {
+public class MaxMinInArray {
     public static void main(String[] args) {
         int[] arr = {1,22,42,45,-98,107,8934};
         int max = arr[0];
